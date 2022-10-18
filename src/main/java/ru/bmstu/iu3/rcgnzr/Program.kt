@@ -15,8 +15,8 @@ fun main() {
     }
 
     if (connection != null) {
-        println("You successfully connected to database now")
+        println("You successfully connected to database now");
     } else {
-       println("Failed to make connection to database")
+       println("Failed to make connection to database");
     }
 }
